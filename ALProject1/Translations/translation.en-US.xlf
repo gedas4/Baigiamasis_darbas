@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Please update this value">
+    <body>
+      <group id="body">
+        <trans-unit id="PageExtension 1210852669 - Control 2173385693 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dimensions</source>
+          <target>Dimensions</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension pageextension99900000 - Control Dimensions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 257601387 - Action 2726973750 - Method 1377591017 - NamedType 3137064648" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Periodic invoice has been successfully posted</source>
+          <target>Periodic invoice has been successfully posted</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Posted Child Contract - Action Create Periodic Invoice - Method OnAction - NamedType text10000</note>
+        </trans-unit>
+        <trans-unit id="Page 257601387 - Action 2726973750 - Method 1377591017 - NamedType 2499368031" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Periodic invoice can be generated only for Long-term contracts</source>
+          <target>Periodic invoice can be generated only for Long-term contracts</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Posted Child Contract - Action Create Periodic Invoice - Method OnAction - NamedType text10001</note>
+        </trans-unit>
+        <trans-unit id="Page 257601387 - Action 2726973750 - Method 1377591017 - NamedType 117490586" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Periodic invoice invoice can only be generated for a child attending kindergarten - child is not enrolled in kindergarten</source>
+          <target>Periodic invoice invoice can only be generated for a child attending kindergarten - child is not enrolled in kindergarten</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Posted Child Contract - Action Create Periodic Invoice - Method OnAction - NamedType text10002</note>
+        </trans-unit>
+        <trans-unit id="Page 419864405 - Action 1342029027 - Method 1377591017 - NamedType 3137064648" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Periodic invoices has been successfully posted</source>
+          <target>Periodic invoices has been successfully posted</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Posted Child Contract List - Action Create Periodic Invoices - Method OnAction - NamedType text10000</note>
+        </trans-unit>
+        <trans-unit id="Page 1533152422 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enter paid amount</source>
+          <target>Enter paid amount</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Amount Input Dialog - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Report 4267712188 - ReportLabel 1878130204" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&lt;&gt;</source>
+          <target>&lt;&gt;</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Child Contract - ReportLabel Type</note>
+        </trans-unit>
+        <trans-unit id="Report 4267712188 - NamedType 2875645988" size-unit="char" translate="yes" xml:space="preserve">
+          <source>month</source>
+          <target>month</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Child Contract - NamedType MonthTxt</note>
+        </trans-unit>
+        <trans-unit id="Report 4267712188 - NamedType 3666452776" size-unit="char" translate="yes" xml:space="preserve">
+          <source>day</source>
+          <target>day</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Child Contract - NamedType DayTxt</note>
+        </trans-unit>
+        <trans-unit id="Report 4267712188 - NamedType 1933399375" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Taip</source>
+          <target>Taip</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Child Contract - NamedType Txt50000</note>
+        </trans-unit>
+        <trans-unit id="Report 4267712188 - NamedType 2571095992" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ne</source>
+          <target>Ne</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Child Contract - NamedType Txt50001</note>
+        </trans-unit>
+        <trans-unit id="Report 1885238871 - ReportLabel 2984138987" size-unit="char" translate="yes" xml:space="preserve">
+          <source>OVERVIEW REPORT</source>
+          <target>OVERVIEW REPORT</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Overview Report - ReportLabel ReportName</note>
+        </trans-unit>
+        <trans-unit id="Report 1885238871 - ReportLabel 30259774" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date from</source>
+          <target>Date from</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Overview Report - ReportLabel DateFrom</note>
+        </trans-unit>
+        <trans-unit id="Report 1885238871 - ReportLabel 1537575777" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date to</source>
+          <target>Date to</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Overview Report - ReportLabel DateTo</note>
+        </trans-unit>
+        <trans-unit id="Report 2049023057 - ReportDataItem 1003582728 - Method 3245603402 - NamedType 117490586" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Child is not added into a kindergarten - contract termination invoice cannot be generated</source>
+          <target>Child is not added into a kindergarten - contract termination invoice cannot be generated</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Contract Termination Invoice - ReportDataItem Posted Child Header - Method OnAfterGetRecord - NamedType text10002</note>
+        </trans-unit>
+        <trans-unit id="Report 2049023057 - ReportDataItem 1003582728 - Method 3245603402 - NamedType 3137064648" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount to return from previous periods</source>
+          <target>Amount to return from previous periods</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Contract Termination Invoice - ReportDataItem Posted Child Header - Method OnAfterGetRecord - NamedType text10000</note>
+        </trans-unit>
+        <trans-unit id="Report 2049023057 - ReportDataItem 1003582728 - Method 3245603402 - NamedType 2499368031" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount to pay for previous periods</source>
+          <target>Amount to pay for previous periods</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Contract Termination Invoice - ReportDataItem Posted Child Header - Method OnAfterGetRecord - NamedType text10001</note>
+        </trans-unit>
+        <trans-unit id="Report 2049023057 - ReportDataItem 1003582728 - Method 3245603402 - NamedType 3774761265" size-unit="char" translate="yes" xml:space="preserve">
+          <source>We must pay you back:</source>
+          <target>We must pay you back:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Contract Termination Invoice - ReportDataItem Posted Child Header - Method OnAfterGetRecord - NamedType text10003</note>
+        </trans-unit>
+        <trans-unit id="Report 2049023057 - ReportDataItem 1003582728 - Method 3245603402 - NamedType 1392883820" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total:</source>
+          <target>Total:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Contract Termination Invoice - ReportDataItem Posted Child Header - Method OnAfterGetRecord - NamedType text10004</note>
+        </trans-unit>
+        <trans-unit id="Report 2049023057 - ReportLabel 2984138987" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CONTRACT TERMINATION INVOICE</source>
+          <target>CONTRACT TERMINATION INVOICE</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Contract Termination Invoice - ReportLabel ReportName</note>
+        </trans-unit>
+        <trans-unit id="Report 2049023057 - ReportLabel 3484422546" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Client</source>
+          <target>Client</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Contract Termination Invoice - ReportLabel ClientName</note>
+        </trans-unit>
+        <trans-unit id="Report 2049023057 - ReportLabel 2128220794" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Child Nr.</source>
+          <target>Child Nr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Contract Termination Invoice - ReportLabel ChildNr</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1504267761 - Change 1878130204 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source> ,G/L Account,Item,Resource,Fixed Asset,Charge (Item),Month,Day,Activity,Meal</source>
+          <target> ,G/L Account,Item,Resource,Fixed Asset,Charge (Item),Month,Day,Activity,Meal</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension tableextension99900001 - Change Type - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 714306119 - Method 2545781222 - NamedType 3137064648" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Child's contract has been terminated - attendance cannot be marked</source>
+          <target>Child's contract has been terminated - attendance cannot be marked</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Child Attendance - Method TerminationCheck - NamedType text10000</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

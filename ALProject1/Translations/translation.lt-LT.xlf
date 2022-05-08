@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="lt-LT" original="Please update this value">
+    <body>
+      <group id="body">
+        <trans-unit id="Page 257601387 - Action 2726973750 - Method 1377591017 - NamedType 3137064648" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Periodic invoice has been successfully posted</source>
+          <target>Periodinė sąskaita buvo sėkmingai sukurta</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Posted Child Contract - Action Create Periodic Invoice - Method OnAction - NamedType text10000</note>
+        </trans-unit>
+        <trans-unit id="Page 257601387 - Action 2726973750 - Method 1377591017 - NamedType 2499368031" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Periodic invoice can be generated only for Long-term contracts</source>
+          <target>Periodinės sąskaitos gali būti generuojamos tik ilgalaikėms sutartims</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Posted Child Contract - Action Create Periodic Invoice - Method OnAction - NamedType text10001</note>
+        </trans-unit>
+        <trans-unit id="Page 257601387 - Action 2726973750 - Method 1377591017 - NamedType 117490586" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Periodic invoice invoice can only be generated for a child attending kindergarten - child is not enrolled in kindergarten</source>
+          <target>Periodinė sąskaita gali būti generuojama tik vaikui lankančiam darželį - vaikas nėra užrašytas į darželį</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Posted Child Contract - Action Create Periodic Invoice - Method OnAction - NamedType text10002</note>
+        </trans-unit>
+        <trans-unit id="Page 419864405 - Action 1342029027 - Method 1377591017 - NamedType 3137064648" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Periodic invoices has been successfully posted</source>
+          <target>Periodinės sąskaitos buvo sėkmingai sukurtos</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Posted Child Contract List - Action Create Periodic Invoices - Method OnAction - NamedType text10000</note>
+        </trans-unit>
+        <trans-unit id="Page 1533152422 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enter paid amount</source>
+          <target>Įveskite sumokėtą sumą</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Amount Input Dialog - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Report 4267712188 - NamedType 2875645988" size-unit="char" translate="yes" xml:space="preserve">
+          <source>month</source>
+          <target>mėnesis</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Child Contract - NamedType MonthTxt</note>
+        </trans-unit>
+        <trans-unit id="Report 4267712188 - NamedType 3666452776" size-unit="char" translate="yes" xml:space="preserve">
+          <source>day</source>
+          <target>diena</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Child Contract - NamedType DayTxt</note>
+        </trans-unit>
+        <trans-unit id="Report 1885238871 - ReportLabel 2984138987" size-unit="char" translate="yes" xml:space="preserve">
+          <source>OVERVIEW REPORT</source>
+          <target>APŽVALGOS ATASKAITA</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Overview Report - ReportLabel ReportName</note>
+        </trans-unit>
+        <trans-unit id="Report 1885238871 - ReportLabel 30259774" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date from</source>
+          <target>Data nuo</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Overview Report - ReportLabel DateFrom</note>
+        </trans-unit>
+        <trans-unit id="Report 1885238871 - ReportLabel 1537575777" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date to</source>
+          <target>Data iki</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Overview Report - ReportLabel DateTo</note>
+        </trans-unit>
+        <trans-unit id="Report 2049023057 - ReportDataItem 1003582728 - Method 3245603402 - NamedType 117490586" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Child is not added into a kindergarten - contract termination invoice cannot be generated</source>
+          <target>Vaikas nėra įtrauktas į darželį - sutarties nutraukimo sąskaita negali būti sugeneruota</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Contract Termination Invoice - ReportDataItem Posted Child Header - Method OnAfterGetRecord - NamedType text10002</note>
+        </trans-unit>
+        <trans-unit id="Report 2049023057 - ReportDataItem 1003582728 - Method 3245603402 - NamedType 3137064648" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount to return from previous periods</source>
+          <target>Grąžintina suma iš ankstesnių periodų</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Contract Termination Invoice - ReportDataItem Posted Child Header - Method OnAfterGetRecord - NamedType text10000</note>
+        </trans-unit>
+        <trans-unit id="Report 2049023057 - ReportDataItem 1003582728 - Method 3245603402 - NamedType 2499368031" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount to pay for previous periods</source>
+          <target>Mokėtina suma už ankstesnius periodus</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Contract Termination Invoice - ReportDataItem Posted Child Header - Method OnAfterGetRecord - NamedType text10001</note>
+        </trans-unit>
+        <trans-unit id="Report 2049023057 - ReportDataItem 1003582728 - Method 3245603402 - NamedType 3774761265" size-unit="char" translate="yes" xml:space="preserve">
+          <source>We must pay you back:</source>
+          <target>Mes turime jums grąžinti:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Contract Termination Invoice - ReportDataItem Posted Child Header - Method OnAfterGetRecord - NamedType text10003</note>
+        </trans-unit>
+        <trans-unit id="Report 2049023057 - ReportDataItem 1003582728 - Method 3245603402 - NamedType 1392883820" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total:</source>
+          <target>Iš viso:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Contract Termination Invoice - ReportDataItem Posted Child Header - Method OnAfterGetRecord - NamedType text10004</note>
+        </trans-unit>
+        <trans-unit id="Report 2049023057 - ReportLabel 2984138987" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CONTRACT TERMINATION INVOICE</source>
+          <target>SUTARTIES NUTRAUKIMO SĄSKAITA</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Contract Termination Invoice - ReportLabel ReportName</note>
+        </trans-unit>
+        <trans-unit id="Report 2049023057 - ReportLabel 3484422546" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Client</source>
+          <target>Klientas</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Contract Termination Invoice - ReportLabel ClientName</note>
+        </trans-unit>
+        <trans-unit id="Report 2049023057 - ReportLabel 2128220794" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Child Nr.</source>
+          <target>Vaiko Nr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Contract Termination Invoice - ReportLabel ChildNr</note>
+        </trans-unit>
+        <trans-unit id="Table 3685016775 - Field 1514324493 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ilgalaikė,Trumpalaikė</source>
+          <target>Ilgalaikė,Trumpalaikė</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Child Header - Field Type of Contract - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 547960833 - Field 1896974463 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source> ,Mėnesis,Diena,Būrelis,Maitinimas</source>
+          <target> ,Mėnesis,Diena,Būrelis,Maitinimas</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Contract Lines - Field Service Type - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 714306119 - Field 2560725459 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Atvyko,Neatvyko</source>
+          <target>Atvyko,Neatvyko</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Child Attendance - Field Participation - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 714306119 - Method 2545781222 - NamedType 3137064648" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Child's contract has been terminated - attendance cannot be marked</source>
+          <target>Vaiko sutartis nutraukta - negalima žymėti lankomumo</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Child Attendance - Method TerminationCheck - NamedType text10000</note>
+        </trans-unit>
+        <trans-unit id="Table 1003582728 - Field 1514324493 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ilgalaikė,Trumpalaikė</source>
+          <target>Ilgalaikė,Trumpalaikė</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Posted Child Header - Field Type of Contract - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 2064111842 - Field 1896974463 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source> ,Mėnesis,Diena,Būrelis,Maitinimas</source>
+          <target> ,Mėnesis,Diena,Būrelis,Maitinimas</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Posted Contract Lines - Field Service Type - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 1878247663 - Field 1514324493 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ilgalaikė,Trumpalaikė</source>
+          <target>Ilgalaikė,Trumpalaikė</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Contract Journal Line - Field Type of Contract - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 3766433653 - Field 1514324493 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ilgalaikė,Trumpalaikė</source>
+          <target>Ilgalaikė,Trumpalaikė</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Contract Ledger Entry - Field Type of Contract - Property OptionCaption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

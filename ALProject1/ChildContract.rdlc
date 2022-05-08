@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report xmlns="http://schemas.microsoft.com/sqlserver/reporting/2016/01/reportdefinition" xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner">
+  <AutoRefresh>0</AutoRefresh>
+  <DataSources>
+    <DataSource Name="DataSource">
+      <ConnectionProperties>
+        <DataProvider>SQL</DataProvider>
+        <ConnectString />
+      </ConnectionProperties>
+      <rd:SecurityType>None</rd:SecurityType>
+    </DataSource>
+  </DataSources>
+  <ReportSections>
+    <ReportSection>
+      <Body>
+        <Height>2in</Height>
+        <Style />
+      </Body>
+      <Width>6.5in</Width>
+      <Page>
+        <Style />
+      </Page>
+    </ReportSection>
+  </ReportSections>
+  <ReportParameters>
+    <ReportParameter Name="Type">
+      <DataType>String</DataType>
+      <DefaultValue>
+        <Values>
+          <Value>Type</Value>
+        </Values>
+      </DefaultValue>
+      <Prompt>Type</Prompt>
+    </ReportParameter>
+  </ReportParameters>
+  <Code>Public Function BlankZero(ByVal Value As Decimal)
+    if Value = 0 then
+        Return ""
+    end if
+    Return Value
+End Function
+
+Public Function BlankPos(ByVal Value As Decimal)
+    if Value &gt; 0 then
+        Return ""
+    end if
+    Return Value
+End Function
+
+Public Function BlankZeroAndPos(ByVal Value As Decimal)
+    if Value &gt;= 0 then
+        Return ""
+    end if
+    Return Value
+End Function
+
+Public Function BlankNeg(ByVal Value As Decimal)
+    if Value &lt; 0 then
+        Return ""
+    end if
+    Return Value
+End Function
+
+Public Function BlankNegAndZero(ByVal Value As Decimal)
+    if Value &lt;= 0 then
+        Return ""
+    end if
+    Return Value
+End Function
+</Code>
+  <Language>=User!Language</Language>
+  <ConsumeContainerWhitespace>true</ConsumeContainerWhitespace>
+  <rd:ReportUnitType>Inch</rd:ReportUnitType>
+  <rd:ReportID>0eeb6585-38ae-40f1-885b-8d50088d51b4</rd:ReportID>
+  <DataSets>
+    <DataSet Name="DataSet_Result">
+      <Fields>
+        <Field Name="No">
+          <DataField>No</DataField>
+        </Field>
+        <Field Name="ChildNo">
+          <DataField>ChildNo</DataField>
+        </Field>
+        <Field Name="ParentName">
+          <DataField>ParentName</DataField>
+        </Field>
+        <Field Name="TypeOfContract">
+          <DataField>TypeOfContract</DataField>
+        </Field>
+        <Field Name="DateFrom">
+          <DataField>DateFrom</DataField>
+        </Field>
+        <Field Name="DateTo">
+          <DataField>DateTo</DataField>
+        </Field>
+        <Field Name="KindName">
+          <DataField>KindName</DataField>
+        </Field>
+        <Field Name="KindCity">
+          <DataField>KindCity</DataField>
+        </Field>
+        <Field Name="KindAddres">
+          <DataField>KindAddres</DataField>
+        </Field>
+        <Field Name="ContractPeriod">
+          <DataField>ContractPeriod</DataField>
+        </Field>
+        <Field Name="mPrice">
+          <DataField>mPrice</DataField>
+        </Field>
+        <Field Name="mPriceFormat">
+          <DataField>mPriceFormat</DataField>
+        </Field>
+        <Field Name="activitiesPrice">
+          <DataField>activitiesPrice</DataField>
+        </Field>
+        <Field Name="activitiesPriceFormat">
+          <DataField>activitiesPriceFormat</DataField>
+        </Field>
+        <Field Name="prdPrice">
+          <DataField>prdPrice</DataField>
+        </Field>
+        <Field Name="prdPriceFormat">
+          <DataField>prdPriceFormat</DataField>
+        </Field>
+        <Field Name="IncActivities">
+          <DataField>IncActivities</DataField>
+        </Field>
+        <Field Name="ContractType">
+          <DataField>ContractType</DataField>
+        </Field>
+        <Field Name="mealCnt">
+          <DataField>mealCnt</DataField>
+        </Field>
+      </Fields>
+      <Query>
+        <DataSourceName>DataSource</DataSourceName>
+        <CommandText />
+      </Query>
+    </DataSet>
+  </DataSets>
+</Report>
